@@ -1,3 +1,3 @@
 project 3
 
-Simple coffee buying application made in Java
+Simple product adding form for a webshop
